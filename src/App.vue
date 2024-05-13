@@ -112,7 +112,7 @@ onMounted(() => {
 
   // 监听 Viewer 的 postRender 事件，在地图移动时更新弹窗位置
   viewer.scene.postRender.addEventListener(() => {
-    if (entityPosition.value) {
+    if (entityPosition.value && pointInfoRef.value.open) {
       pointInfoSetPosition();
     }
   });

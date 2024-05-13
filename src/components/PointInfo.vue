@@ -24,6 +24,7 @@ function hide() {
 }
 
 defineExpose({
+  open,
   position,
   show,
   hide
