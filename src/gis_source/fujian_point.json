@@ -1,0 +1,47 @@
+[
+  {
+    "name": "福州",
+    "longitude": 119.2965,
+    "latitude": 26.0745
+  },
+  {
+    "name": "厦门",
+    "longitude": 118.0895,
+    "latitude": 24.4798
+  },
+  {
+    "name": "泉州",
+    "longitude": 118.6759,
+    "latitude": 24.8741
+  },
+  {
+    "name": "宁德",
+    "longitude": 119.5482,
+    "latitude": 26.6656
+  },
+  {
+    "name": "莆田",
+    "longitude": 119.0077,
+    "latitude": 25.4541
+  },
+  {
+    "name": "漳州",
+    "longitude": 117.6474,
+    "latitude": 24.5135
+  },
+  {
+    "name": "龙岩",
+    "longitude": 117.0179,
+    "latitude": 25.0751
+  },
+  {
+    "name": "三明",
+    "longitude": 117.635,
+    "latitude": 26.2656
+  },
+  {
+    "name": "南平",
+    "longitude": 118.1777,
+    "latitude": 26.6418
+  }
+]
